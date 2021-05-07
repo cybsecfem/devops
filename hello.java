@@ -1,7 +1,7 @@
 class Hello
 {
-public static void main (String args[])
+public static void main(String args[])
 {
-system.out.printIn("hello");
+System.out.println("hello");
 }
 }
